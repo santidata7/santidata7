@@ -1,3 +1,4 @@
+<img width="1280" height="640" alt="github_banner_santiago_rodriguez" src="https://github.com/user-attachments/assets/1618d77c-1679-4c2a-bfff-5fac32489e85" />
 <h1 align="center">🔬 Santiago Rodríguez</h1>
 
 <h3 align="center">
