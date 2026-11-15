@@ -1,5 +1,4 @@
-##                                                              ¡Hola! Soy Santiago👋
-
+<h1 align="center">🚀 Transformando datos en decisiones inteligentes</h1>
 # 🚀 Transformando datos en decisiones inteligentes
 
 Soy Científico de Datos en formación con enfoque en análisis avanzado, machine learning y modelado predictivo. Construyo soluciones basadas en evidencia que convierten datos complejos en información accionable para apoyar la toma de decisiones.
