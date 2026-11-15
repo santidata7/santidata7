@@ -1,4 +1,4 @@
-<h1 align="center">🧠 Santiago Rodríguez</h1>
+<h1 align="center">🔬 Santiago Rodríguez</h1>
 
 <h3 align="center">
 Transformando datos en conocimiento, predicciones y decisiones
