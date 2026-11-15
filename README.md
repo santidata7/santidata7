@@ -103,8 +103,8 @@ Actualmente desarrollo proyectos end-to-end utilizando Python, SQL, Scikit-Learn
 
 <p align="center">
 
-<a href="TU_LINKEDIN">LinkedIn</a> •
-<a href="TU_NOTION">Portafolio</a> •
+<a href="https://www.linkedin.com/in/santiago-rodr%C3%ADguez-zaraza-709990275/">LinkedIn</a> •
+<a href="https://glossy-pyramid-ce9.notion.site/Portafolio-1f6fba09cc9282b5804b01f554f43182">Portafolio</a> •
 <a href="https://github.com/santidata7">GitHub</a>
 
 </p>
